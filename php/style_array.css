@@ -1,0 +1,24 @@
+body {
+    background: lightblue url("img_tree.gif") no-repeat fixed center;
+  };
+.tableau_produit{
+    border-collapse: collapse;
+}
+
+.tableau_produit tr{
+    border:solid rgb(31, 167, 230) 1px;
+}
+
+.tableau_produit td{
+    border:solid black 1px;
+}
+.tableau_produit{background-color: white;};
+.tableau_produit{width: 100%;};
+.tableau_produittable {
+    border: medium solid #000000;
+    width: 50%;
+    }
+    td, th {
+    border: thin solid #6495ed;
+    width: 50%;
+    };
